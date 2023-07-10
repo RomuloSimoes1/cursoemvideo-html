@@ -1,2 +1,2 @@
 # cursoemvideo-html
- fonts
+ I´m **learning** on *youtube* channel with Gustavo Guanabara
